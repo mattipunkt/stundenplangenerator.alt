@@ -1,3 +1,6 @@
+# ACHTUNG
+Ich habe aufgehört dieses Projekt weiterzuführen. Stattdessen werde ich das ganze in Rust neu schreiben.
+
 # Stundenplan Generator
 Der Stundenplan Generator ist eine Weboberfläche, die es Lehrern ermöglicht Schüler zu erstellen und diese dann einem Kurs zuzuordnen. So wird automatisch der Stundenplan für den jeweiligen Schüler erstellt und es gibt kein Chaos beim selbst zusammenstellen.
 
